@@ -10,7 +10,7 @@
 ## 3.Problem Statement
    Currently, the application only supports Light Mode. Users accessing the platform in low-light environments may experience discomfort. There is also no personalization option for theme selection.
 
-## 4. Objectives
+## 4.Objectives
 
 * Enable switching between Light and Dark modes.
 * Apply the selected theme across all pages.
